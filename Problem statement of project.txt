@@ -1,0 +1,22 @@
+Problem Definition:  
+Enquiry Management System (EMS) is an online system to handle daily students' Enquiry for listed courses.   
+Nowadays EMS is a common need of an institution that would like to handle daily Enquiries of students, about the courses offered.  
+So that later on they can plan to send SMS, Email and do the proper follow-ups.  
+ 
+Here we want you to develop an Enquiry Handling module, which will track daily Enquiry handled by authenticating the user.  
+This module should allow one login entry point, where all users can log in, and after that Enquiry, handling form will be displayed, 
+where users can enter Enquiry information, and just below that total enquiry should be displayed in tabular format.     
+
+Business Requirement:
+1. System should have a User as well as Student Enquiry support user wise.  
+2. There should not be pre-filled data in tables.  
+3. System should have support for options like: 
+		a. User Login  
+		b. User Registration  
+		c. Add Enquiry  
+		d. Edit Enquiry  
+		e. Delete Enquiry  
+		f.  Show today’s Enquiry  
+		g. Searching by name  
+4. You need to create proper tables with proper names and have a proper relationship  
+5. Design the flow of the application and send it along with the source code.
